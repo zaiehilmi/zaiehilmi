@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zaiehilmi
 - 👀 I’m interested in ethereum development
-- 🌱 I’m currently learning cloud computing
+- 🌱 I’m currently building a traceability system based on blockchain
 - 💞️ I’m looking to collaborate on anyone that interested to do a supply chain management system based on blockchain
 - 📫 You can contact me via email at <zaiehilmi@gmail.com>
 
