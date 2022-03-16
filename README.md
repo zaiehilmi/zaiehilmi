@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zaiehilmi
-- 👀 I’m interested in ethereum development
-- 🌱 I’m currently building a traceability system based on blockchain
+- 👀 I’m interested in ethereum dapp development
+- 🌱 I’m currently in my internship at Telekom Research & Development as a Data Science apperentice
 - 💞️ I’m searching for a permanent job in Lembah Klang's area or remote work after I graduated in August 2022
 - 📫 You can contact me via email at <zaiehilmi@gmail.com>
 
