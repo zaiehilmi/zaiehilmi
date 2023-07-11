@@ -17,7 +17,7 @@
 </div>
 
 ## About me
-- 👋 Hi, I’m zaii
+- 👋 Hi, I’m zaie
 - 👀 I’m interested in software development
 - 🌱 I’m currently working at Penril Datability (M) Sdn Bhd as a mobile app developer
 - 📫 You can contact me via email at <a target="_blank" href="mailto:zaiehilmi@gmail.com"> <img src="https://img.shields.io/badge/-zaiehilmi%40gmail.com-red" /> </a>
