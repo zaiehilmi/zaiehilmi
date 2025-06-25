@@ -29,8 +29,6 @@ Berikut adalah perkara-perkara yang sedang saya usahakan atau pelajari secara ak
     * Saya membuat aplikasi mudah alih menggunakan Flutter untuk menguruskan aset peribadi saya. Projek peribadi tetapi memberi impak yang besar terhadap saya. Ini akan melibatkan peralihan daripada menggunakan Notion ke Supabase. Kini, ia dalam pembinaan
     * *Teknologi Utama:* `Flutter`, `Supabase`
 
-*(Anda boleh menambah lebih banyak projek atau fokus jika mahu)*
-
 ## 🛠️ Kotak Alatan Teknologi Saya
 
 Ini adalah sebahagian daripada bahasa pengaturcaraan, rangka kerja, dan perkakasan yang saya gunakan untuk menghidupkan idea:
