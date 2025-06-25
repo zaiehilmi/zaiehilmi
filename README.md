@@ -13,7 +13,7 @@ Selamat datang ke ruang digital saya! Saya seorang jurutera perisian yang berpus
 ## 🚀 Sekilas Tentang Saya
 
 * 🏢 Kini, saya menyumbang kepakaran sebagai **Pembangun Aplikasi Mudah Alih** di **Penril Datability (M) Sdn Bhd**.
-* 💻 Fokus utama saya adalah dalam pembangunan aplikasi **cross-platform** (terutamanya dengan **Flutter & Dart**) dan juga pembangunan **natif** (Java/Kotlin/Swift).
+* 💻 Fokus utama saya adalah dalam pembangunan aplikasi **cross-platform** (terutamanya dengan **Flutter & React Native**) dan juga pembangunan **natif** (Java/Kotlin/Swift).
 * 💡 Saya amat berminat dengan **reka bentuk UI/UX yang intuitif**, **penyelesaian masalah yang kompleks**, dan sentiasa mengikuti perkembangan **teknologi-teknologi baharu** dalam ekosistem mudah alih.
 * 🌱 Falsafah saya: Sentiasa ada ruang untuk **belajar, berkembang, dan berkongsi** pengetahuan dengan komuniti.
 
