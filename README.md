@@ -21,7 +21,7 @@ Selamat datang ke ruang digital saya! Saya seorang jurutera perisian yang berpus
 
 Berikut adalah perkara-perkara yang sedang saya usahakan atau pelajari secara aktif:
 
-1.  ✨ **Membina semula aplikasi dari Natif ke React Natif**
+1.  ✨ **Membina semula aplikasi dari Natif ke React Native**
     * Dalam projek ini, saya mengetuai pasukan untuk merombak kod di balik tabir daripada kedua-dua natif iOS dan Android dan beralih menggunakan React Native untuk memudahkan pengurusan kod dan meningkatkan produktiviti. 
     * *Teknologi Utama:* `Expo`, `React Native`, `Firebase`, `Expo plugin and modules(bridge)`
 
@@ -75,9 +75,12 @@ Ini adalah sebahagian daripada bahasa pengaturcaraan, rangka kerja, dan perkakas
 Saya percaya pembelajaran adalah satu perjalanan tanpa henti. Berikut adalah beberapa perkara yang ingin saya terokai atau kuasai:
 
 * 🧠 **Seni Bina Aplikasi Modular dalam Flutter**
+* ⚡ **Pembangunan Aplikasi tapi menggunakan Kotlin Multiplatform**
 * 🚀 **Asas Pembangunan Aplikasi iOS Natif dengan Swift & SwiftUI**
 * 🔧 **Pengujian Automasi untuk Aplikasi Mudah Alih (Unit, Widget, Integrasi)**
-* 🌐 **[Menyumbang kepada menulis artikel teknikal di blog peribadi/Medium**
+
+### Pendapat saya tentang Kotlin Multiplatform (KMP)
+Saya suka konsep di mana hanya sebahagian code yang dikongsi tapi untuk yang berkaitan UI akan guna natif. Saya mula terbuka minda untuk mengutamakan pembangunan menggunakan natif sebab bila ada perubahan UI besar-besaran contohnya dari iOS 18 ke iOS 26 dan android Material 3 Expressive, aplikasi sedia ada boleh terus mendapat manfaat peningkatan UI baharu tu. 
 
 ## 🤝 Jom Berhubung & Bekerjasama!
 
@@ -110,5 +113,5 @@ Saya sentiasa teruja untuk berhubung dengan rakan-rakan pembangun, pereka, atau 
 
 ---
 <p align="center">
-  <small>✨ Direka dengan ❤️ dan sedikit bantuan daripada kafein. ✨</small>
+  <small>✨ Direka dengan ❤️ dan sedikit bantuan daripada teh sebab tak suka kopi ✨</small>
 </p>
