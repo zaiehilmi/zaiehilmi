@@ -2,7 +2,7 @@
 
 # Ahmad Auzaie bin Hilmi
 
-**Mobile Application Developer**
+**Mobile Application Developer**  
 Kuala Lumpur, Malaysia | zaiehilmi@gmail.com | +60 18-208 5521 | [linkedin.com/auzaiehilmi](https://www.linkedin.com/in/auzaiehilmi/) | [github.com/zaiehilmi](https://github.com/zaiehilmi)
 
 ***
@@ -19,7 +19,7 @@ to Android & iOS stores.
 ## Experience
 
 **Mobile Application Developer at Penril Datability Sdn. Bhd.**
-*Mont Kiara, Kuala Lumpur | September 2022 – Present | 3 years 6 months*
+*Mont Kiara, Kuala Lumpur | September 2022 – Present | 3 years 8 months*
 
 * Maintained and enhanced banking applications (BSNeBiz, KFH MySecure, AgroSecure) as vendor developer for BSN, KFH, Agrobank, and Maybank.
 * Migrated project setup to XcodeGen, reducing merge conflicts by 80% and improving team productivity.
@@ -44,9 +44,9 @@ to Android & iOS stores.
 
 ## Skills
 
-- **Programming Languages**: TypeScript, Kotlin, Swift, Dart  
-- **Frameworks & Libraries**: Angular, React Native, Expo, Kotlin Multiplatform, Flutter, Jest, XcodeGen, Android View Binding, iOS UIKit  
-- **Tools & IDEs**: Git, GitLab, Github, VS Code, IntelliJ-based IDEs, Android Studio, Xcode  
+- **Programming Languages**: TypeScript, Kotlin, Java, Swift, Dart  
+- **Frameworks & Libraries**: React Native, Expo, Kotlin Multiplatform, Flutter, Jest, XcodeGen, Android View Binding, iOS UIKit, iOS SwiftUI  
+- **Tools & IDEs**: Git, GitLab, Github, VS Code, Jetbrain's IDEs, Android Studio, Xcode  
 - **Testing**: Jest
 
 ***
