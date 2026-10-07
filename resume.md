@@ -18,8 +18,16 @@ to Android & iOS stores.
 
 ## Experience
 
+**Software Engineer (Mobile) at GXBank Berhad via Chinasoft Interfusion**
+*Bandar Utama, Selangor | July 2026 – Present | 3 months*
+
+* Built native Android features with Jetpack Compose, using an agentic development workflow with AI coding agents to speed up delivery.
+* Optimized Datadog alerts (thresholds, grouping, routing) to reduce alert fatigue, so the team can focus on actionable incidents. [tambah: kurang X% alert / noise]
+* Queried Snowflake to extract user funnel data for a new feature, giving product the data to guide decisions. [tambah: insight atau keputusan yang terhasil]
+* Contributed to technical specifications for new features, covering scope, architecture, and API requirements.
+
 **Mobile Application Developer at Penril Datability Sdn. Bhd.**
-*Mont Kiara, Kuala Lumpur | September 2022 – Present | 3 years 8 months*
+*Mont Kiara, Kuala Lumpur | September 2022 – June 2026 | 3 years 10 months*
 
 * Maintained and enhanced banking applications (BSNeBiz, KFH MySecure, AgroSecure) as vendor developer for BSN, KFH, Agrobank, and Maybank.
 * Migrated project setup to XcodeGen, reducing merge conflicts by 80% and improving team productivity.
@@ -65,5 +73,5 @@ to Android & iOS stores.
 
 ## Languages
 
-* **English**: Intermediate
+* **English**: Professional
 * **Bahasa Melayu**: Fluent
