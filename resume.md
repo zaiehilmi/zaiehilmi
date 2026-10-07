@@ -3,23 +3,20 @@
 # Ahmad Auzaie bin Hilmi
 
 **Mobile Application Developer**  
-Kuala Lumpur, Malaysia | zaiehilmi@gmail.com | +60 18-208 5521 | [linkedin.com/auzaiehilmi](https://www.linkedin.com/in/auzaiehilmi/) | [github.com/zaiehilmi](https://github.com/zaiehilmi)
+Kuala Lumpur, Malaysia | zaiehilmi@gmail.com | +60 18-208 5521 | [linkedin.com/in/auzaiehilmi](https://www.linkedin.com/in/auzaiehilmi/) | [github.com/zaiehilmi](https://github.com/zaiehilmi)
 
 ***
 
 ## Summary
 
-Mobile App Developer with 3+ years of experience building secure and scalable mobile applications for
-the financial and enterprise sectors. Proficient in Flutter, React Native, Kotlin Multiplatform, and native development (Kotlin/Java &
-Swift). Known for clean architecture, strong version control practices, and shipping production-ready apps
-to Android & iOS stores.
+Mobile App Developer with 4+ years of experience building secure and scalable mobile applications for the financial and enterprise sectors. Proficient in React Native and native mobile application development (Kotlin/Java & Swift). Familiar with Kotlin Multiplatform and Flutter. Known for clean architecture, strong version control practices, and shipping production-ready apps to Android & iOS stores.
 
 ***
 
 ## Experience
 
 **Software Engineer (Mobile) at GXBank Berhad via Chinasoft Interfusion**
-*Bandar Utama, Selangor | July 2026 – Present | 3 months*
+*Bandar Utama, Selangor | July 2026 – Present | 4 months*
 
 * Built native Android features with Jetpack Compose, using an agentic development workflow with AI coding agents to speed up delivery.
 * Optimized Datadog alerts (thresholds, grouping, routing) to reduce alert fatigue, so the team can focus on actionable incidents. [tambah: kurang X% alert / noise]
@@ -30,11 +27,11 @@ to Android & iOS stores.
 *Mont Kiara, Kuala Lumpur | September 2022 – June 2026 | 3 years 10 months*
 
 * Maintained and enhanced banking applications (BSNeBiz, KFH MySecure, AgroSecure) as vendor developer for BSN, KFH, Agrobank, and Maybank.
-* Migrated project setup to XcodeGen, reducing merge conflicts by 80% and improving team productivity.
+* Migrated project setup to XcodeGen, reducing merge conflicts by ~80% and improving team productivity.
 * Implemented structured build environments (SIT, UAT, PreProd, Prod), eliminating manual errors and ensuring deployment accuracy.
 * Collaborated with QA, managers, and backend teams to align RESTful API changes with mobile requirements.
 * Utilized Android View Binding and iOS UIKit for native development, and also maintained React Native-based projects.
-* Translate current client flows into more readable formats, including preparing diagrams while analyzing their code.
+* Translated current client flows into more readable formats, including preparing diagrams while analyzing their code.
 * Focused on code readability, maintainability, and scalability, enabling long‑term improvements with minimal disruption.
 * Expanding expertise in unit testing with Jest to strengthen React Native project quality.
 * Mentored new team members, providing them with guidance and support to ensure seamless project execution.
@@ -53,7 +50,7 @@ to Android & iOS stores.
 ## Skills
 
 - **Programming Languages**: TypeScript, Kotlin, Java, Swift, Dart  
-- **Frameworks & Libraries**: React Native, Expo, Kotlin Multiplatform, Flutter, Jest, XcodeGen, Android View Binding, iOS UIKit, iOS SwiftUI  
+- **Frameworks & Libraries**: React Native, Expo, Kotlin Multiplatform, Flutter, XcodeGen, Android View Binding, iOS UIKit, iOS SwiftUI  
 - **Tools & IDEs**: Git, GitLab, Github, VS Code, Jetbrain's IDEs, Android Studio, Xcode  
 - **Testing**: Jest
 
